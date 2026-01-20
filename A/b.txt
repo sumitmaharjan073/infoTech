@@ -1,1 +1,2 @@
 this is b file
+tis is another line in b.txt
